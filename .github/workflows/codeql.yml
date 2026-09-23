@@ -10,6 +10,7 @@ on:
 
 jobs:
   analyze:
+    if: ${{ github.event.repository.visibility == 'public' }}
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout repository
