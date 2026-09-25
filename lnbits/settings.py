@@ -283,10 +283,10 @@ class ExchangeHistorySettings(LNbitsSettings):
 class ThemesSettings(LNbitsSettings):
     lnbits_site_title: str = Field(default="Nostr Pay")
     lnbits_site_tagline: str = Field(
-        default="open-source bitcoin and Nostr payments"
+        default="bitcoin and Nostr payments"
     )
     lnbits_site_description: str | None = Field(
-        default="A simple, open-source wallet for bitcoin and Nostr payments."
+        default="A simple wallet for bitcoin and Nostr payments."
     )
     lnbits_show_home_page_elements: bool = Field(default=True)
     lnbits_default_wallet_name: str = Field(default="Nostr Pay wallet")
