@@ -1,13 +1,4 @@
-<a href="https://lnbits.com" target="_blank" rel="noopener noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/logos/lnbits-full-inverse.svg">
-    <img src="docs/logos/lnbits-full.svg" alt="LNbits" style="width:300px">
-  </picture>
-</a>
 
-![phase: stable](https://img.shields.io/badge/phase-stable-2EA043) [![license-badge]](LICENSE) [![docs-badge]][docs] ![PRs: welcome](https://img.shields.io/badge/PRs-Welcome-yellow) [![explore: LNbits extensions](https://img.shields.io/badge/explore-LNbits%20extensions-10B981)](https://extensions.lnbits.com/) [![hardware: LNBitsShop](https://img.shields.io/badge/hardware-LNBitsShop-7C3AED)](https://shop.lnbits.com/) [<img src="https://img.shields.io/badge/community_chat-Telegram-24A1DE">](https://t.me/lnbits)  
-<img alt="lnbits_head" src="docs/assets/header.jpg" />  
-[![tip-hero](https://img.shields.io/badge/TipJar-LNBits%20Hero-9b5cff?labelColor=6b7280&logo=lightning&logoColor=white)](https://demo.lnbits.com/tipjar/DwaUiE4kBX6mUW6pj3X5Kg)
 
 # LNbits — The most powerful Bitcoin & Lightning toolkit
 
